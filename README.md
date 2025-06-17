@@ -36,4 +36,4 @@ https://drive.google.com/file/d/1ljkxKp7Rt3Fkti2Buf-A8JXW3eGOZwb8/view
 ## Photos
 ![RC Filter Bank Schematic](images/RCFilterBank_Schematic.PNG)
 ![RC Filter Bank Circuit](images/RCFilterBank_Circuit.PNG)
-![LED Matrix 8x8 Circuit](images/LEDMatrix8x8_Circuit.PNG)
+![LED Matrix 8x8 Circuit](LEDMatrix8x8_Circuit.PNG)
