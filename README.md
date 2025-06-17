@@ -1,3 +1,10 @@
+/audio-visualizer/
+├── 8x8-custom-matrix/
+│   ├── code/
+│   └── notes.md
+├── 64x32-prebuilt-matrix/
+│   ├── code/
+│   └── differences.md
 # Audio Spectrum Visualizer (ESP32 + LED Matrix)
 
 ## Overview
