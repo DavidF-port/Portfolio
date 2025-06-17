@@ -34,6 +34,6 @@ This project is an 8×8 LED matrix audio spectrum visualizer built using an ESP3
 https://drive.google.com/file/d/1ljkxKp7Rt3Fkti2Buf-A8JXW3eGOZwb8/view
 
 ## Photos
-_Add images of your LED matrix, filter bank, or setup_  
-Example:
-![RC Filter Bank](images/matrix_front.jpg)
+![RC Filter Bank Schematic](images/RCFilterBank_Schematic.PNG)
+![RC Filter Bank Circuit](images/RCFilterBank_Circuit.PNG)
+![LED Matrix 8x8 Circuit](images/LEDMatrix8x8_Circuit.PNG)
