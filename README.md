@@ -31,7 +31,7 @@ This is an 8×8 LED matrix audio spectrum visualizer built with an ESP32. Audio 
 - Prototyping, soldering, and debugging
 
 ### Demo  
-[🔗 Video Demo](https://drive.google.com/file/d/1ljkxKp7Rt3Fkti2Buf-A8JXW3eGOZwb8/view)
+(https://drive.google.com/file/d/1ljkxKp7Rt3Fkti2Buf-A8JXW3eGOZwb8/view)
 
 ### Photos  
 **RC Filter Bank Schematic**  
@@ -48,7 +48,7 @@ This is an 8×8 LED matrix audio spectrum visualizer built with an ESP32. Audio 
 ## Prebuilt 64×32 RGB Matrix Version
 
 ### Overview  
-This version uses a commercial 64×32 RGB LED matrix, still running on ESP32. The signal chain is the same — RC filter bank + digital smoothing — but output is handled by a driver library that controls the built-in shift registers and row drivers in the matrix. Way faster refresh rate, much smoother bars, and uses color to show amplitude.
+This version uses a commercial 64×32 RGB LED matrix, still running on ESP32. The signal chain is the same - RC filter bank + digital smoothing - but output is handled by a driver library that controls the built-in shift registers and row drivers in the matrix. Way faster refresh rate, much smoother bars, and uses color to show amplitude.
 
 ### Why I Made It  
 - Wanted a higher-resolution, cleaner visual  
@@ -60,6 +60,6 @@ This version uses a commercial 64×32 RGB LED matrix, still running on ESP32. Th
 - Matrix still uses shift registers internally, just abstracted by the driver code  
 - Uses same RC filter bank from the 8×8 version  
 - Output controlled through a matrix library (like PxMatrix or Adafruit Protomatter)  
-- MEMS mic used here instead of analog mic  
-- 64 columns = finer frequency resolution  
-- RGB = more interesting display
+- MEMS mic used here instead of analog mic for better quality  
+- 64 columns -> finer frequency resolution  
+- RGB w/ gradient -> more interesting display
