@@ -63,7 +63,3 @@ This version uses a commercial 64×32 RGB LED matrix, still running on ESP32. Th
 - MEMS mic used here instead of analog mic  
 - 64 columns = finer frequency resolution  
 - RGB = more interesting display
-
----
-
-Let me know if you want to split this into folders for each version (`8x8_custom/`, `64x32_panel/`), or add wiring diagrams, code examples, or a signal flow chart.
