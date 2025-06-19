@@ -63,3 +63,6 @@ This version uses a commercial 64×32 RGB LED matrix, still running on ESP32. Th
 - MEMS mic used here instead of analog mic for better quality  
 - 64 columns -> finer frequency resolution  
 - RGB w/ gradient -> more interesting display
+
+### Demo
+(https://www.youtube.com/watch?v=AJzHhXwQKkE)
