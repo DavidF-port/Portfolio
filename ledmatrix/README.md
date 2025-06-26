@@ -3,7 +3,7 @@
 ## Custom 8×8 Matrix (LED + ESP32)
 
 ### Overview  
-This is an 8×8 LED matrix audio spectrum visualizer built with an ESP32. Audio input from a microphone goes through a passive analog RC filter bank (4 bands), then through a digital moving average filter. The signal is displayed in real time on a hand-wired LED matrix controlled using shift registers and discrete transistors.
+This is an 8×8 LED matrix audio spectrum visualizer built with an ESP32. Audio input from a microphone goes through a passive analog RC filter bank (4 bands), then through a digital moving average filter. The signal is displayed in real time on a hand-wired LED matrix controlled using shift registers and discrete transistors. The code for this is contained in the file "8x8LedMatrixCode.cpp".
 
 ### Features  
 - Passive RC filter bank (4 frequency bands)  
@@ -48,7 +48,7 @@ This is an 8×8 LED matrix audio spectrum visualizer built with an ESP32. Audio 
 ## Prebuilt 64×32 RGB Matrix Version
 
 ### Overview  
-This version uses a commercial 64×32 RGB LED matrix, still running on ESP32. The signal chain is the same - RC filter bank + digital smoothing - but output is handled by a driver library that controls the built-in shift registers and row drivers in the matrix. Way faster refresh rate, much smoother bars, and uses color to show amplitude.
+This version uses a commercial 64×32 RGB LED matrix, still running on ESP32. The signal chain is the same - RC filter bank + digital smoothing - but output is handled by a driver library that controls the built-in shift registers and row drivers in the matrix. Way faster refresh rate, much smoother bars, and uses color to show amplitude. The code for this is contained in the file "64x32MatrixCode.cpp".
 
 ### Why I Made It  
 - Wanted a higher-resolution, cleaner visual  
