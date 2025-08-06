@@ -48,7 +48,7 @@ This is an 8×8 LED matrix audio spectrum visualizer built with an ESP32. Audio 
 ## Prebuilt 64×32 RGB Matrix Version
 
 ### Overview  
-This version uses a commercial 64×32 RGB LED matrix, still running on ESP32. The signal chain is the same - RC filter bank + digital smoothing - but output is handled by a driver library that controls the built-in shift registers and row drivers in the matrix. Way faster refresh rate, much smoother bars, and uses color to show amplitude. The code for this is contained in the file "64x32MatrixCode.cpp".
+This version uses a commercial 64×32 RGB LED matrix, still running on ESP32. The signal chain is the same - RC filter bank + digital smoothing - but output is handled by a driver library that controls the built-in shift registers and row drivers in the matrix. Way faster refresh rate, much smoother bars, and uses color to show amplitude. The code for this is contained in the file "64x32MatrixCode.cpp" which was originally provided by my professor but some customizations were made.
 
 ### Why I Made It  
 - Wanted a higher-resolution, cleaner visual  
