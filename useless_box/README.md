@@ -20,7 +20,6 @@ The headstrong personality makes the motor rush forward aggressively to switch t
 3. The arm then slowly retreats using a different timing pattern.  
 4. A limit switch prevents the arm from wasting power by only allowing the robot arm to go forward when the switch is pressed.  
 
----
 
 ## Code Snippet
 ```
