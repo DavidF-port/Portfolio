@@ -3,6 +3,23 @@
 A microcontroller-driven "useless box" that flips a switch back after the user flips it with a headstrong personality.  
 The headstrong personality makes the motor rush forward aggressively to switch the lever, then retreat slowly to its resting position, simluating a headstrong personality.
 
+## Photos
+
+Circuit Schematic
+
+![Circuit Schematic](uselessBoxSchematic.PNG)
+
+
+Circuit Outside of the Box
+
+![Outside of the Box](outsideBoxCircuit.PNG)
+
+
+Circuit Placed Inside Box
+
+![Circuit Placed Inside Box](insideBoxPicture.PNG)
+
+
 ## Features
 - Headstrong Personality – Quick strike forward, slow retreat back.  
 - PWM + Timing Control – Creates distinct movement patterns to simulate personality.  
