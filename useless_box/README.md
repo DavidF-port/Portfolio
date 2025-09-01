@@ -3,20 +3,16 @@
 A microcontroller-driven "useless box" that flips a switch back after the user flips it with a headstrong personality.  
 The headstrong personality makes the motor rush forward aggressively to switch the lever, then retreat slowly to its resting position, simluating a headstrong personality.
 
----
-
 ## Features
 - Headstrong Personality – Quick strike forward, slow retreat back.  
 - PWM + Timing Control – Creates distinct movement patterns to simulate personality.  
 - Limit Switch Protection – Ensures safe motor travel.  
 - Compact Design – All components fit into a small enclosure.  
 
----
 
 ## Demo w/ Headstrong Personality
 (https://youtu.be/gd_1D4p8ltQ)
 
----
 
 ## How It Works
 1. The user flips a DPDT toggle switch.  
