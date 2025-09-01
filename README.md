@@ -13,7 +13,7 @@ A playful mechanical/electrical project that uses **PWM motor control** and **li
   - Mechanical switch debouncing and control logic  
   - Integration of hardware + software for interactive design  
 
-(./useless_box)  
+[Useless Box](./useless_box)  
 
 ### 2. LED Matrix Audio Visualizer  
 An embedded systems project that processes real-time microphone input and displays sound levels on an LED matrix.  
@@ -24,7 +24,7 @@ An embedded systems project that processes real-time microphone input and displa
   - Driving LED matrices with shift registers  
   - Embedded C++ programming on ESP32  
 
-(./ledmatrix)  
+[LED Matrix](./ledmatrix)  
 
 ## Technical Skills Highlighted  
 - Embedded systems: ESP32, Arduino, shift registers  
