@@ -28,7 +28,7 @@ The headstrong personality makes the motor rush forward aggressively to switch t
 
 
 ## Demo w/ Headstrong Personality
-(https://youtu.be/gd_1D4p8ltQ)
+[Demo](https://youtu.be/--vmTX_ukSY)
 
 
 ## How It Works
