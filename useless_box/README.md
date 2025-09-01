@@ -5,17 +5,17 @@ The headstrong personality makes the motor rush forward aggressively to switch t
 
 ## Photos
 
-## Circuit Schematic
+**Circuit Schematic**
 
 ![Circuit Schematic](uselessBoxSchematic.PNG)
 
 
-## Circuit Outside of the Box
+**Circuit Outside of the Box**
 
 ![Outside of the Box](outsideBoxCircuit.PNG)
 
 
-## Circuit Placed Inside Box
+**Circuit Placed Inside Box**
 
 ![Circuit Placed Inside Box](insideBoxPicture.PNG)
 
